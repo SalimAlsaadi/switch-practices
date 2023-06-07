@@ -1,0 +1,15 @@
+C:\Users\TRA\Desktop\code-TRA\switch-method\switch-method\bin\Debug\net6.0\switch-method.exe
+C:\Users\TRA\Desktop\code-TRA\switch-method\switch-method\bin\Debug\net6.0\switch-method.deps.json
+C:\Users\TRA\Desktop\code-TRA\switch-method\switch-method\bin\Debug\net6.0\switch-method.runtimeconfig.json
+C:\Users\TRA\Desktop\code-TRA\switch-method\switch-method\bin\Debug\net6.0\switch-method.dll
+C:\Users\TRA\Desktop\code-TRA\switch-method\switch-method\bin\Debug\net6.0\switch-method.pdb
+C:\Users\TRA\Desktop\code-TRA\switch-method\switch-method\obj\Debug\net6.0\switch-method.csproj.AssemblyReference.cache
+C:\Users\TRA\Desktop\code-TRA\switch-method\switch-method\obj\Debug\net6.0\switch-method.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TRA\Desktop\code-TRA\switch-method\switch-method\obj\Debug\net6.0\switch-method.AssemblyInfoInputs.cache
+C:\Users\TRA\Desktop\code-TRA\switch-method\switch-method\obj\Debug\net6.0\switch-method.AssemblyInfo.cs
+C:\Users\TRA\Desktop\code-TRA\switch-method\switch-method\obj\Debug\net6.0\switch-method.csproj.CoreCompileInputs.cache
+C:\Users\TRA\Desktop\code-TRA\switch-method\switch-method\obj\Debug\net6.0\switch-method.dll
+C:\Users\TRA\Desktop\code-TRA\switch-method\switch-method\obj\Debug\net6.0\refint\switch-method.dll
+C:\Users\TRA\Desktop\code-TRA\switch-method\switch-method\obj\Debug\net6.0\switch-method.pdb
+C:\Users\TRA\Desktop\code-TRA\switch-method\switch-method\obj\Debug\net6.0\switch-method.genruntimeconfig.cache
+C:\Users\TRA\Desktop\code-TRA\switch-method\switch-method\obj\Debug\net6.0\ref\switch-method.dll
